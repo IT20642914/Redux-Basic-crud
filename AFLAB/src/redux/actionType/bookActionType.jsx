@@ -1,0 +1,8 @@
+export const bookActionType={
+     INSERT_BOOK:"INSERT_BOOK",
+      UPDATE_BOOK:"UPDATE_BOOK",
+     DELETE_BOOK:"DELETE_BOOK",
+     GET_BOOKS:"GET_BOOKS",
+     BORROW_BOOK:"BORROW_BOOK"
+ 
+}
